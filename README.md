@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lab9l
+- 👋 Hi, I’m @fl9x
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ...
